@@ -647,7 +647,6 @@ div.BOOK {
 	margin-top: 22%;
 	border: 2px #3E81AE;
 	border-radius: 12px;
-	z-index: -1;
 }
 
 #js_timer {
